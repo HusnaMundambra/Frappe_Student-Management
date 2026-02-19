@@ -1,7 +1,2 @@
-## Student Management
-
-A complete student management system
-
-#### License
-
-MIT
+# Frappe_Student-Management
+An app designed for education purpose
